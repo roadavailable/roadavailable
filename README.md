@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - **Programming Languages:** Python (Intermediate), C (Intermediate), R (Beginner)  
 - **Libraries & Frameworks:** TensorFlow, scikit-learn, statsmodels, SHAP  
 - **Tools:** Overleaf, LaTeX, Excel, Jupyter Notebook, VS Code, Visual Studio  
-- **Languages:** Korean (Native), English (TOEIC 920)  
+- **Languages:** Korean (Native)
 
 ## 📄 Publications
 
